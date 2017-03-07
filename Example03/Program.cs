@@ -11,14 +11,15 @@ namespace Example03
         private static void Main(string[] args)
         {
             string sql =
-                @ "select * from table
-            where id >1000" ;
+                @ "select * from table where id >1000" ;
             string xml =
                 @"<Pokemon>
                       <NationalNo>#001</NationalNo>
                       <Name>Bulbstaur</Name>
-                  </Pokemon> ;
-            string
+                  </Pokemon>" ;
+            string json =
+                @"Pokemaon ={
+                      NationalNo: "#001"
         }
     }
 }
