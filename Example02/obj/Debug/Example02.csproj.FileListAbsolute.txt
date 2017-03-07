@@ -1,0 +1,1 @@
+C:\Csharp-Projects-Examples\CS280-Lectures2-Examples\Example02\bin\Debug\Example02.exe.config
